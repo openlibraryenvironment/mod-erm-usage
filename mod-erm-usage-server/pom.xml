@@ -9,7 +9,7 @@
   <parent>
     <groupId>org.olf</groupId>
     <artifactId>mod-erm-usage</artifactId>
-    <version>2.8.2</version>
+    <version>2.8.3-SNAPSHOT</version>
   </parent>
 
   <dependencies>
